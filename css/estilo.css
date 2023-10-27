@@ -1,11 +1,32 @@
 .sombcarro {
     text-shadow: 3px 3px 6px rgb(234, 192, 88);
 }
+
 .sombcarro2 {
     text-shadow: 2px 2px 5px rgb(234, 192, 88);
 }
 
-#sobre, #filmes, #livros, #galeria, #contato {
+#sobre,
+#filmes,
+#livros,
+#galeria,
+#contato {
     margin-top: 3%;
     margin-bottom: 3%;
+}
+
+.gal {
+    width: 92%;
+}
+
+.gal2 {
+    margin-bottom: 9%;
+}
+
+.just {
+    text-align: justify;
+}
+
+.carrosel {
+    margin-top: 2%;
 }
